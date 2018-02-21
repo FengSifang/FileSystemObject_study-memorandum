@@ -16,10 +16,10 @@ A memoran worked by Javascript(FileSystemObject)
 
 #### 目录结构
 note
-|---recycle
-    |---delete.txt
-|---conf.ini
-|---content.txt
++|---recycle
++    |---delete.txt
++|---conf.ini
++|---content.txt
 
 #### 使用说明
 content是个textarea，里面的内容可以转为html添加在原来的位置
