@@ -14,13 +14,6 @@ A memoran worked by Javascript(FileSystemObject)
 每添加一个文章会生成一个txt文件用来记录内容
 删除后文件会移动到recycle，30天以后自动移除
 
-#### 目录结构
-+note
-+---recycle
-+------delete.txt
-+---conf.ini
-+---content.txt
-
 #### 使用说明
 content是个textarea，里面的内容可以转为html添加在原来的位置
 双击内容可依靠html标签编辑
